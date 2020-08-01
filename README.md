@@ -27,8 +27,8 @@ The complementary part of the analysis is to create a dashboard in Tableau, whic
 
 The core of the project is in Python 3.7.3, in order to run the project you have to install the following libraries:
 
-Pandas (v.0.24.2)
-Numpy (v.1.18.1)
-Matplotlib(v.3.2.1)
-Seaborn(v.0.10.1)
+- Pandas (v.0.24.2)
+- Numpy (v.1.18.1)
+- Matplotlib(v.3.2.1)
+- Seaborn(v.0.10.1)
 
